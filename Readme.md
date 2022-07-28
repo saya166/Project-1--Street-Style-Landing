@@ -26,4 +26,4 @@
 
 ## Credits
 
-- The project is a part of the learning from **_Full Stack Javascript Bottcamp_** course by **_iNeuron_**. Credit for the idea is his. I understood the concepts and learned them by building them myself with minimal reference to the source code. The method of execution is modified according to my point of view, whenever necessary.
+- The project is a part of the learning from **_Full Stack Javascript Bootcamp_** course by **_iNeuron_**. Credit for the idea is his. I understood the concepts and learned them by building them myself with minimal reference to the source code. The method of execution is modified according to my point of view, whenever necessary.
