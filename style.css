@@ -1,0 +1,141 @@
+@import url("https://fonts.googleapis.com/css2?family=Arima:wght@300&family=Encode+Sans&family=Francois+One&family=Kaushan+Script&family=Orbitron:wght@500;900&family=Roboto:wght@100;300;500&family=Shadows+Into+Light&family=Signika:wght@500;700&family=Volkhov:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Arima:wght@300&family=Encode+Sans&family=Francois+One&family=Kaushan+Script&family=Orbitron:wght@500;900&family=Roboto:wght@100;300;500&family=Shadows+Into+Light&family=Signika:wght@500;700&family=Volkhov:wght@700&display=swap");
+.container {
+  margin-left: 50px;
+}
+
+img[src="/assets/Logo.png"] {
+  margin-top: 40px;
+  height: 40px;
+}
+
+ul {
+  margin-left: 300px;
+  margin-top: -50px;
+}
+li {
+  text-align: center;
+  padding: 10px 20px;
+  display: inline-block;
+  font-family: "Orbitron";
+  font-weight: bold;
+}
+li:first-child {
+  color: #0d0d0d;
+  font-weight: bolder;
+  font-size: 20px;
+  width: 52px;
+  text-decoration: underline;
+  margin-right: 22px;
+}
+
+.search-icon {
+  float: right;
+  margin-top: -50px;
+  margin-right: 230px;
+}
+.nav-button {
+  float: right;
+  margin-top: -50px;
+  margin-right: 50px;
+  padding: 7px;
+  width: 140px;
+  border-radius: 0.7rem;
+}
+
+img[src="/assets/squares.png"] {
+  margin-top: 120px;
+  height: 380px;
+  width: 350px;
+  margin-left: 70px;
+  position: relative;
+}
+div > img[src="/assets/Image.png"] {
+  top: 25%;
+  height: 410px;
+  width: 350px;
+  position: absolute;
+}
+.globe {
+  margin-left: 170px;
+  top: 125px;
+  position: absolute;
+}
+img[src="/assets/globe.png"] {
+  height: 45px;
+  width: 40px;
+}
+.star {
+  margin-left: 664px;
+  top: 155px;
+  position: absolute;
+}
+img[src="/assets/start.png"] {
+  height: 45px;
+  width: 40px;
+}
+
+.hero-container-right {
+  margin-left: 480px;
+  margin-top: -430px;
+  position: relative;
+}
+.hero-heading {
+  font-family: "Orbitron";
+  font-size: 51px;
+}
+.hero-description {
+  text-align: center;
+  width: 580px;
+  color: #8b8e8f;
+  font-family: "Kantumruy Pro";
+}
+
+.button-email {
+  margin-left: 100px;
+  padding: 5px;
+  width: 180px;
+  font-family: "Orbitron";
+  border-radius: 0.5rem;
+}
+.button-join {
+  margin-left: 30px;
+  padding: 5px;
+  width: 100px;
+  font-family: "Orbitron";
+  border-radius: 0.5rem;
+  background-color: #0d0d0d;
+  color: white;
+}
+
+.contact-heading {
+  margin-left: 240px;
+  margin-top: 90px;
+  font-family: "Kantumruy Pro";
+  font-size: 20px;
+  color: #5c5c5c;
+}
+
+.icons {
+  margin-left: 190px;
+  margin-top: -12px;
+}
+img[src="/assets/Group.png"] {
+  padding-right: 10px;
+  height: 35px;
+  width: 35px;
+}
+img[src="/assets/Group (1).png"] {
+  padding-right: 10px;
+  height: 35px;
+  width: 35px;
+}
+img[src="/assets/Group (2).png"] {
+  padding-right: 10px;
+  height: 35px;
+  width: 35px;
+}
+img[src="/assets/Group (3).png"] {
+  height: 35px;
+  width: 35px;
+}
